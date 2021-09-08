@@ -6,3 +6,9 @@ The advantage of the Python programming language is its simplicity, power, and h
 
 
 Python grammar codes, for example, are very close to English, which makes it easier to understand commands, and the programmer is more concerned with the program itself and its process than with translating the algorithm into grammar code.
+
+Now we want to examine Python in 6 chapters in this course, the chapter is as follows:
+
+1) Introduction
+
+Be Happy :)
