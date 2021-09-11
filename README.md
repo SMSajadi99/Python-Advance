@@ -10,5 +10,6 @@ Python grammar codes, for example, are very close to English, which makes it eas
 Now we want to examine Python in 6 chapters in this course, the chapter is as follows:
 
 1) Introduction
+2) Object-oriented programming (OOP)
 
 Be Happy :)
