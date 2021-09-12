@@ -11,5 +11,6 @@ Now we want to examine Python in 6 chapters in this course, the chapter is as fo
 
 1) Introduction
 2) Object-oriented programming (OOP)
+3) DataBase (MYSQL)
 
 Be Happy :)
