@@ -13,5 +13,6 @@ Now we want to examine Python in 6 chapters in this course, the chapter is as fo
 2) Object-oriented programming (OOP)
 3) DataBase (MYSQL)
 4) Web Scraping
+5) Django
 
 Be Happy :)
